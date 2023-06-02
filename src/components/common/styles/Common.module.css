@@ -1,0 +1,73 @@
+.common__modal_wrapper {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(224, 224, 224, 0.7);
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.common__modal {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 10px;
+    padding: 20px;
+    background-color: #FFFFFF;
+    box-shadow: 0 0 10px 1px #C7C7C7;
+    overflow-y: auto;
+}
+
+.modal__title {
+    font-size: 16px;
+    font-weight: 400;
+    color: #303240;
+}
+
+.common__btn {
+    height: 40px;
+    width: 300px;
+    text-decoration: none;
+    color: #303240;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #303240;
+    cursor: pointer;
+    transition: all .2s linear;
+}
+
+.common__btn:hover {
+    background-color: #F4F4F4;
+}
+
+.add__form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 5px;
+}
+
+.add__input {
+    width: 300px;
+    height: 40px;
+    font-size: 16px;
+    color: #303240;
+    padding: 0 5px;
+    border: 1px solid #303240;
+}
+
+.add__button {
+    width: 300px;
+    height: 40px;
+    font-size: 16px;
+    color: #FFFFFF;
+    background-color: #008ACE;
+    cursor: pointer;
+    border: none;
+    outline: none;
+}

@@ -1,0 +1,33 @@
+.one__comp_page {
+    padding: 40px 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 10px;
+}
+
+.computer__title {
+    font-size: 32px;
+    color: #303240;
+    font-weight: 400;
+    border-bottom: 4px solid #303240;
+    padding: 0 10px 3px 10px;
+}
+
+.computer__subtitle {
+    font-size: 18px;
+    color: #303240;
+    font-weight: 400;
+}
+
+@media screen and (max-width: 768px) {
+    .one__comp_page {
+        padding: 20px 30px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .one__comp_page {
+        padding: 10px 15px;
+    }
+}
