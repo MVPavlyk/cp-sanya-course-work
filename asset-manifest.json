@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cp-sanya-course-work/static/css/main.b6096b78.css",
-    "main.js": "/cp-sanya-course-work/static/js/main.f762c99c.js",
+    "main.js": "/cp-sanya-course-work/static/js/main.58a96106.js",
     "static/media/main-bg.jpg": "/cp-sanya-course-work/static/media/main-bg.ad2bc05fd58900f0feab.jpg",
     "index.html": "/cp-sanya-course-work/index.html",
     "static/media/add.svg": "/cp-sanya-course-work/static/media/add.8fcb95be160c8a31b7acac27a026a75a.svg",
     "main.b6096b78.css.map": "/cp-sanya-course-work/static/css/main.b6096b78.css.map",
-    "main.f762c99c.js.map": "/cp-sanya-course-work/static/js/main.f762c99c.js.map"
+    "main.58a96106.js.map": "/cp-sanya-course-work/static/js/main.58a96106.js.map"
   },
   "entrypoints": [
     "static/css/main.b6096b78.css",
-    "static/js/main.f762c99c.js"
+    "static/js/main.58a96106.js"
   ]
 }
